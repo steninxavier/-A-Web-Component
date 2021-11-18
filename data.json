@@ -1,0 +1,122 @@
+[
+  {
+    "PLZ": "13457",
+    "Stadt": "Berlin",
+    "strasse": [
+      "kenestrasse",
+      "Friedrichstrasse",
+      "Kurfürstendamm",
+      "Schiffbauerdamm"
+    ]
+  },
+  {
+    "PLZ": "15678",
+    "Stadt": "Frankfurt",
+    "strasse": [
+      "Schönhauser Allee",
+      "Oderberger Strasse",
+      "Oranienburger Strasse",
+      "Tauentzienstrasse"
+    ]
+  },
+  {
+    "PLZ": "34567",
+    "Stadt": "Aachen",
+    "strasse": [
+      "Bölschestraße",
+      "Kastanienallee",
+      "Majakowskiring",
+      "Simon-Dach-Straße"
+    ]
+  },
+  {
+    "PLZ": "78989",
+    "Stadt": "Halle",
+    "strasse": [
+      "Bergmannstraße",
+      "Linienstraße",
+      "Frankfurter Allee",
+      "Karl-Marx-Allee"
+    ]
+  },
+  {
+    "PLZ": "23459",
+    "Stadt": "Bremen",
+    "strasse": [
+      "Adlergestell",
+      "Landsberger Allee",
+      "Havelchaussee",
+      "Heerstraße"
+    ]
+  },
+  {
+    "PLZ": "77699",
+    "Stadt": "Wuzburg",
+    "strasse": [
+      "Märkische Allee",
+      "Kronprinzessinnenweg",
+      "Allee der Kosmonauten",
+      "Fürstenwalder Damm"
+    ]
+  },
+  {
+    "PLZ": "45901",
+    "Stadt": "Munich",
+    "strasse": [
+      "Saatwinkler Damm",
+      "Müggelheimer Damm",
+      "Prenzlauer Promenade",
+      "Brunnenstraße"
+    ]
+  },
+  {
+    "PLZ": "90089",
+    "Stadt": "Kiel",
+    "strasse": [
+      "Magdalenenstraße",
+      "Invalidenstraße",
+      "Bernauer Straße",
+      "Oranienburger Straße"
+    ]
+  },
+  {
+    "PLZ": "65432",
+    "Stadt": "Bochum",
+    "strasse": [
+      "Babelsberger Strasse",
+      "Auguste-Viktoria-Strasse",
+      "Angerburger Allee",
+      "Arcostrasse"
+    ]
+  },
+  {
+    "PLZ": "98965",
+    "Stadt": "Leipzig",
+    "strasse": [
+      "Behaimstrasse",
+      "Charlottenbrunner Strasse",
+      "Christstrasse",
+      "Cordesstrasse"
+    ]
+  },
+  {
+    "PLZ": "15678",
+    "Stadt": "Freiberg",
+    "strasse": [
+      "Darmstädter Strasse",
+      "Davoser Strasse",
+      "Detmolder Strasse",
+      "Durlacher Strasse"
+    ]
+  },
+  {
+    "PLZ": "34908",
+    "Stadt": "Lindau",
+    "strasse": [
+      "Fontanestrasse",
+      "Fraunhoferstrasse",
+      "Gutenbergstrasse",
+      "Hardyweg"
+    ]
+  }
+]

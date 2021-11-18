@@ -1,0 +1,83 @@
+.address-body {
+  margin-top: 10em;
+  margin-left: 10em;
+}
+input,
+select,
+option {
+  border: 1px solid #73ad21;
+  outline: 0;
+  height: 1.5em;
+  background-color: none;
+}
+input:focus {
+  outline: none;
+  border: 1px solid red;
+  box-shadow: 0 0 7px #bd4621;
+}
+option,
+select:active {
+  outline: none;
+  border: 1px solid red;
+  box-shadow: 0 0 7px #bd4621;
+}
+select,
+option {
+  width: 34.5em;
+  height: 2em;
+}
+
+.plz {
+  margin-bottom: 2em;
+  margin-right: 3em;
+  margin-left: 2em;
+  width: 10em;
+}
+
+.stadt {
+  margin-bottom: 2em;
+  margin-right: 3em;
+  margin-left: 1.5em;
+  width: 40em;
+}
+.strasse {
+  margin-bottom: 2em;
+  margin-right: 3em;
+  margin-left: 0.7em;
+}
+.hausnummer {
+  margin-bottom: 2em;
+  margin-right: 3em;
+  margin-left: 1em;
+}
+.land {
+  margin-bottom: 3em;
+  margin-right: 3em;
+  margin-left: 1.6em;
+  width: 58.3em;
+}
+button {
+  background-color: white;
+  color: black;
+  border: 1px solid #4caf50;
+  cursor: pointer;
+  margin-bottom: 1em;
+  font: bold 12px verdana;
+}
+
+button:hover {
+  background-color: #4caf50;
+  color: white;
+}
+.buttonClick {
+  align-content: space-between;
+  background-color: red;
+  width: 7em;
+}
+.datavisual {
+  margin-top: 2em;
+  width: 55em;
+  font: bold 12px verdana;
+  background-color: lightblue;
+  text-align: center;
+}
